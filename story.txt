@@ -14,3 +14,9 @@ Aurelia could not accept a queen that was not the rightful heir to the
 throne. It was a mythical curse that only the true blood of the former Kings
 could be ruling the country. But, but there is one way that you can break the
 curse, but a horrible one...
+
+The sorceror of the kingdom, Merlin, revealed that the only way to break the
+curse is to gain acceptance of all in the kingdom. For the most part, this 
+was alreaady true! The queen had proven her capability time and time again
+to her citizens. The only problem was that the dissenters could not be swayed
+by actions alone.
